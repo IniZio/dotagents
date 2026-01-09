@@ -100,3 +100,4 @@ The `/test` command will:
 \`\`\`
 
 **Remember: Think first, use commands, prefer memory over codebase, _then_ code. The Spec is your north star.**
+# Test comment
